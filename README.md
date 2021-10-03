@@ -12,6 +12,16 @@ Check out the actual live site: https://mokuatodolist.netlify.app/
 ToDO List is a web app created in React.
 ## Technologies
 Project is created with:
+   - @testing-library/jest-dom version: 5.11.4
+    - @testing-library/react version: 11.1.0
+    - @testing-library/user-event version: 12.1.10
+    - bootstrap version: 5.1.0
+    - react version: 17.0.2
+    - react-bootstrap version: 2.0.0-beta.6
+    - react-dom version: 17.0.2
+    - react-scripts version: 4.0.3
+    - uuid version: 8.3.2
+    - web-vitals version: 1.0.1
 
 
 ## How I worked on this project
@@ -30,10 +40,7 @@ I didn't use state management library such as Redux on purpose. For this app sim
 - Create more precise commits
 - Create branches and use pull requests to generate a good workflow
 - Use Trello to handle my tasks during development
-- Add End to End encryption
-- Allow for personal chat rooms to be created
-- Improve on the UI
-- Integrate the use of GIFs
+- Replace State Management with a database and use APIs to make CRUD operations.
 ## Available Scripts
 ```
 $npm start
